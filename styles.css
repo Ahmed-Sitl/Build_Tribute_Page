@@ -1,0 +1,51 @@
+#main {
+  background-color: rgba(212, 205, 205, 0.39);
+  border-radius: 5px;
+  padding-top: 8px;
+}
+
+#title ,.titles{
+  text-align: center;
+}
+
+#img-div {
+  background-color: white;
+  width: 97%;
+  border-radius: 5px;
+  display: block;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+
+#tribute-info>p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.list {
+  width: 40%;
+  margin: auto;
+}
+
+li {
+  margin-top: 5%;
+}
+
+.lastp {
+  font-style: italic;
+  width: 40%;
+  margin: auto;
+}
+
+#footer {
+  text-align: center;
+  padding: 40px;
+}
